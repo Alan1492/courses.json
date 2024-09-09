@@ -1,0 +1,63 @@
+[
+    {
+      "courseId": "C101",
+      "title": "Introduction to Web Development",
+      "instructor": "John Doe",
+      "duration": "10 hours",
+      "rating": 4.5,
+      "category": "Web Development",
+      "price": "$50",
+      "enrolled": 2500
+    },
+    {
+      "courseId": "C102",
+      "title": "Advanced JavaScript",
+      "instructor": "Jane Smith",
+      "duration": "12 hours",
+      "rating": 4.8,
+      "category": "Programming",
+      "price": "$70",
+      "enrolled": 1800
+    },
+    {
+      "courseId": "C103",
+      "title": "Data Structures and Algorithms",
+      "instructor": "Michael Lee",
+      "duration": "15 hours",
+      "rating": 4.7,
+      "category": "Computer Science",
+      "price": "$80",
+      "enrolled": 3200
+    },
+    {
+      "courseId": "C104",
+      "title": "Responsive Web Design",
+      "instructor": "Laura Garcia",
+      "duration": "8 hours",
+      "rating": 4.6,
+      "category": "Web Development",
+      "price": "$40",
+      "enrolled": 2200
+    },
+    {
+      "courseId": "C105",
+      "title": "Machine Learning Basics",
+      "instructor": "Alex Kim",
+      "duration": "20 hours",
+      "rating": 4.9,
+      "category": "Artificial Intelligence",
+      "price": "$100",
+      "enrolled": 4000
+    },
+    {
+      "courseId": "C106",
+      "title": "Introduction to Cloud Computing",
+      "instructor": "Emily Davis",
+      "duration": "14 hours",
+      "rating": 4.4,
+      "category": "Cloud Computing",
+      "price": "$90",
+      "enrolled": 2700
+    }
+  ]
+  
